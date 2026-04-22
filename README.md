@@ -1,2 +1,2 @@
 # QA_learning.repo
-Purely for leaning Auomation 
+Purely for learning Automation 
